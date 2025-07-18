@@ -1,0 +1,11 @@
+bongos
+12v led strip lights
+raspberry 3
+800x450 lcd display
+arudinio uno r3
+relay
+fsr
+ -----------
+fsr-> arudino->rasp->then -> reads via serial com->then analysis->resp window-> check if right acton is made->then goodjob->then continue->store the fsr data in excel and send to any model for analysis
+
+-----------
