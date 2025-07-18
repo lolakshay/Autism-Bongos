@@ -55,7 +55,7 @@ A creative hardware-software interactive project that responds to physical taps 
     - sudo apt-get install vlc
     - pip install pyserial
 
-# Place your videos (start.mp4, afterleft2.mp4, afterright2.mp4) in the same folder as the Python script.
+Place your videos (start.mp4, afterleft2.mp4, afterright2.mp4) in the same folder as the Python script.
 
 # Run the script:
     - python3 bongos_code_windows.py
