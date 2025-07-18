@@ -1,4 +1,3 @@
-*.mp4
 *.xlsx
 __pycache__/
 *.pyc
