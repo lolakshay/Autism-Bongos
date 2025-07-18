@@ -45,9 +45,9 @@ A creative hardware-software interactive project that responds to physical taps 
 
 ---
 
-## ⚙️ Setup Instructions
+# ⚙️ Setup Instructions
 
-## Raspberry Pi
+# Raspberry Pi
 
 - Connect Arduino via USB
 - Install required Python packages:
