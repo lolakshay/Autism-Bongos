@@ -76,7 +76,7 @@ MIT License – feel free to modify, use, and share for personal and educational
 
 # 👤 Authors
 
-- lolakshay
-- aadhur
+- [@aadhur](https://github.com/aadhur) - Aadhurshini
+- [@lolakshay](https://github.com/lolakshay) - Akshay Srinivas N
 
 🎓 Engineering Students | 💡 AI Enthusiast
