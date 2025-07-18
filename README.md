@@ -50,7 +50,7 @@ A creative hardware-software interactive project that responds to physical taps 
 # Raspberry Pi
 
 - Connect Arduino via USB
-- Install required Python packages:
+# Install required Python packages:
     - sudo apt-get update
     - sudo apt-get install vlc
     - pip install pyserial
